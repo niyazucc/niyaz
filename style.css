@@ -1,0 +1,23 @@
+*{
+    background-color: pink;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+
+}
+
+p{
+    font-family: monospace;
+    color: white;
+    font-size: large;
+}
+.gambar2{
+    margin: 30px;
+    padding: 50px;
+}
+
+
+.muko3{
+    text-align: center;
+    margin: 30px;  
+    
+}
